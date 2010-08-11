@@ -6,5 +6,5 @@ $ENV{LANG} = 'C';
 all_pod_files_spelling_ok('lib');
 __DATA__
 Akira Horimoto
-emperor.kurt@gmail.com
+daemonize
 App::CLI::Plugin::Daemonize
